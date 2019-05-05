@@ -20,7 +20,3 @@ deploy:
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key:
     secure: "$AWS_SECRET_KEY"
-
-# User: docker-react-travis-ci
-# Access key ID: AKIAU2PFGSW4A3LO3DZX
-# access_key: srut/zfkYRh1pdWeui3L0deVcsGWQFnUa6IYdtI5
